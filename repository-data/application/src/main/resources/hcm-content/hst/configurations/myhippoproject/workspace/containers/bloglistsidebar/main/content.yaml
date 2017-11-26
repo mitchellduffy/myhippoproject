@@ -1,0 +1,9 @@
+/hst:hst/hst:configurations/myhippoproject/hst:workspace/hst:containers/bloglistsidebar/main/content:
+  jcr:primaryType: hst:containeritemcomponent
+  jcr:uuid: b0524a9c-5ed8-4d53-8d26-f6402f2399ab
+  hst:componentclassname: org.onehippo.cms7.essentials.components.EssentialsFacetsComponent
+  hst:label: Facets
+  hst:parameternames: [facetPath, showPagination, pageSize]
+  hst:parametervalues: [blogFacets, 'on', '10']
+  hst:template: blog-facet
+  hst:xtype: hst.item

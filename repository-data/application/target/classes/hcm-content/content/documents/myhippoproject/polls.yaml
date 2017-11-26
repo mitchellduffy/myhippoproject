@@ -1,0 +1,35 @@
+/content/documents/myhippoproject/polls:
+  .meta:order-before: blog
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['hippotranslation:translated', 'mix:referenceable']
+  jcr:uuid: 0f1adb9b-375d-4ec0-ae0c-b3210e3be030
+  hippostd:foldertype: [new-poll-document, new-poll-folder]
+  hippotranslation:id: 777485c3-4f62-4319-a856-d51f6c1436c5
+  hippotranslation:locale: en
+  /example-poll:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 0d478047-6978-45b1-b20c-7bb4eaf48e02
+    /example-poll:
+      jcr:primaryType: poll:polldocument
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 2e0807c9-c392-420e-914d-84443bdb12c2
+      hippo:availability: [live, preview]
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2014-06-02T17:40:59.190+02:00
+      hippostdpubwf:lastModificationDate: 2014-06-02T17:41:51.398+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      /poll:poll:
+        jcr:primaryType: poll:poll
+        poll:active: true
+        poll:introduction: This is an example
+        poll:text: Example poll
+        /poll:option[1]:
+          jcr:primaryType: poll:option
+          poll:label: Hippo Essentials
+          poll:value: essentials
+        /poll:option[2]:
+          jcr:primaryType: poll:option
+          poll:label: Hippo CMS
+          poll:value: hippo

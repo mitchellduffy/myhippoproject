@@ -1,0 +1,5 @@
+/hst:hst/hst:configurations/myhippoproject/hst:workspace/hst:sitemenus/main/content:
+  .meta:order-before: blog
+  jcr:primaryType: hst:sitemenuitem
+  jcr:uuid: 2fd22638-5469-4f65-969b-004173d828a4
+  hst:referencesitemapitem: content

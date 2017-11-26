@@ -1,0 +1,10 @@
+/hst:hst/hst:configurations/myhippoproject/hst:workspace/hst:containers/faqlist/main/faq:
+  jcr:primaryType: hst:containeritemcomponent
+  jcr:uuid: 7442a992-ec77-4865-8a88-28ab0f4a7e3d
+  hst:componentclassname: org.onehippo.cms7.essentials.components.EssentialsDocumentComponent
+  hst:iconpath: images/component-icon-faq.png
+  hst:label: Faq
+  hst:parameternames: [document]
+  hst:parametervalues: [faq/about-faq]
+  hst:template: faqlist-main
+  hst:xtype: hst.item

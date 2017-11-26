@@ -1,0 +1,10 @@
+25.11.2017 19:08:10 WARN  localhost-startStop-1 [ConfigurationContentService.warnForDuplicateOrderBefores:248] Following node(s) reference the same node multiple times in order before:
+    /content/documents/myhippoproject/content in myhippoproject/myhippoproject/myhippoproject-repository-data-application [content: content/documents/myhippoproject/content.yaml], 
+    /content/documents/myhippoproject/events in myhippoproject/myhippoproject/myhippoproject-repository-data-application [content: content/documents/myhippoproject/events.yaml], 
+    /content/documents/myhippoproject/faq in myhippoproject/myhippoproject/myhippoproject-repository-data-application [content: content/documents/myhippoproject/faq.yaml], 
+    /content/documents/myhippoproject/news in myhippoproject/myhippoproject/myhippoproject-repository-data-application [content: content/documents/myhippoproject/news.yaml], 
+    /content/documents/myhippoproject/polls in myhippoproject/myhippoproject/myhippoproject-repository-data-application [content: content/documents/myhippoproject/polls.yaml]
+25.11.2017 19:08:10 WARN  localhost-startStop-1 [ConfigurationContentService.warnForDuplicateOrderBefores:248] Following node(s) reference the same node multiple times in order before:
+    /hst:hst/hst:configurations/myhippoproject/hst:workspace/hst:sitemenus/main/events in myhippoproject/myhippoproject/myhippoproject-repository-data-application [content: hst/configurations/myhippoproject/workspace/sitemenus/main/events.yaml], 
+    /hst:hst/hst:configurations/myhippoproject/hst:workspace/hst:sitemenus/main/faq in myhippoproject/myhippoproject/myhippoproject-repository-data-application [content: hst/configurations/myhippoproject/workspace/sitemenus/main/faq.yaml], 
+    /hst:hst/hst:configurations/myhippoproject/hst:workspace/hst:sitemenus/main/news in myhippoproject/myhippoproject/myhippoproject-repository-data-application [content: hst/configurations/myhippoproject/workspace/sitemenus/main/news.yaml]

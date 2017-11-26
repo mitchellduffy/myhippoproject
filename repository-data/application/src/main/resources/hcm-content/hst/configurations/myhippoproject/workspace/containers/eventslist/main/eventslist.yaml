@@ -1,0 +1,11 @@
+/hst:hst/hst:configurations/myhippoproject/hst:workspace/hst:containers/eventslist/main/eventslist:
+  jcr:primaryType: hst:containeritemcomponent
+  jcr:uuid: 5bb933fb-7958-462a-90bd-3e381f455300
+  hst:componentclassname: org.onehippo.cms7.essentials.components.EssentialsEventsComponent
+  hst:label: Events List
+  hst:parameternames: [hidePastEvents, documentTypes, sortField, sortOrder, includeSubtypes,
+    showPagination, path, pageSize, documentDateField]
+  hst:parametervalues: ['on', 'myhippoproject:eventsdocument', '', desc, 'off', 'on',
+    '', '10', 'myhippoproject:enddate']
+  hst:template: eventslist-main-eventslist
+  hst:xtype: hst.item

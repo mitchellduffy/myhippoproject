@@ -1,0 +1,8 @@
+/hst:hst/hst:configurations/myhippoproject/hst:workspace/hst:containers/blogpagesidebar/main/blogauthorposts:
+  jcr:primaryType: hst:containeritemcomponent
+  jcr:uuid: cf9e6a56-3bb4-4261-bb15-caf4d508f892
+  hst:componentclassname: org.onehippo.cms7.essentials.components.EssentialsBlogAuthorPostsComponent
+  hst:iconpath: images/essentials/catalog-component-icons/blogposts-by-author.png
+  hst:label: Blogposts by Author
+  hst:template: blog-author-posts
+  hst:xtype: hst.item

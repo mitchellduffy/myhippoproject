@@ -1,0 +1,10 @@
+/hst:hst/hst:configurations/myhippoproject/hst:workspace/hst:containers/bloglistdetail/main/content:
+  jcr:primaryType: hst:containeritemcomponent
+  jcr:uuid: 2b8290b7-aef2-4253-a52b-e515cf01f020
+  hst:componentclassname: org.onehippo.cms7.essentials.components.EssentialsBlogComponent
+  hst:label: Blog List
+  hst:parameternames: [documentTypes, sortField, sortOrder, showPagination, includeSubtypes,
+    pageSize, path]
+  hst:parametervalues: ['myhippoproject:blogpost', '', desc, 'on', 'off', '1', '']
+  hst:template: blog-list
+  hst:xtype: hst.item

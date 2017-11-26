@@ -1,0 +1,5 @@
+/hst:hst/hst:configurations/myhippoproject/hst:workspace/hst:sitemenus/main/events:
+  .meta:order-before: content
+  jcr:primaryType: hst:sitemenuitem
+  jcr:uuid: c7d3c9b0-68bb-4805-abd1-d2d6ec46009c
+  hst:referencesitemapitem: events

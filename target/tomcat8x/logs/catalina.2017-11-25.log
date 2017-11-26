@@ -1,0 +1,27 @@
+25-Nov-2017 19:06:07.770 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/mitchellduffy/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+25-Nov-2017 19:06:08.719 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+25-Nov-2017 19:06:08.846 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Nov-2017 19:06:08.892 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+25-Nov-2017 19:06:08.896 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Nov-2017 19:06:08.901 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 3151 ms
+25-Nov-2017 19:06:09.100 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+25-Nov-2017 19:06:09.102 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.15
+25-Nov-2017 19:06:09.278 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/mitchellduffy/Documents/Coding/myhippoproject/target/tomcat8x/webapps/site.war]
+25-Nov-2017 19:06:09.355 INFO [localhost-startStop-1] org.apache.catalina.realm.JAASRealm.setUseContextClassLoader Setting useContextClassLoader = true
+25-Nov-2017 19:06:44.123 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/mitchellduffy/Documents/Coding/myhippoproject/target/tomcat8x/webapps/site.war] has finished in [34,838] ms
+25-Nov-2017 19:06:44.165 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/mitchellduffy/Documents/Coding/myhippoproject/target/tomcat8x/webapps/essentials.war]
+25-Nov-2017 19:07:12.818 INFO [localhost-startStop-1] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /
+25-Nov-2017 19:07:13.689 INFO [localhost-startStop-1] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /system
+25-Nov-2017 19:07:13.735 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/mitchellduffy/Documents/Coding/myhippoproject/target/tomcat8x/webapps/essentials.war] has finished in [29,569] ms
+25-Nov-2017 19:07:13.736 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/mitchellduffy/Documents/Coding/myhippoproject/target/tomcat8x/webapps/cargocpc.war]
+25-Nov-2017 19:07:14.062 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/mitchellduffy/Documents/Coding/myhippoproject/target/tomcat8x/webapps/cargocpc.war] has finished in [326] ms
+25-Nov-2017 19:07:14.074 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/mitchellduffy/Documents/Coding/myhippoproject/target/tomcat8x/webapps/cms.war]
+25-Nov-2017 19:08:23.536 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/mitchellduffy/Documents/Coding/myhippoproject/target/tomcat8x/webapps/cms.war] has finished in [69,462] ms
+25-Nov-2017 19:08:23.538 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/mitchellduffy/Documents/Coding/myhippoproject/target/tomcat8x/webapps/manager]
+25-Nov-2017 19:08:23.736 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/mitchellduffy/Documents/Coding/myhippoproject/target/tomcat8x/webapps/manager] has finished in [198] ms
+25-Nov-2017 19:08:23.737 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/mitchellduffy/Documents/Coding/myhippoproject/target/tomcat8x/webapps/host-manager]
+25-Nov-2017 19:08:23.858 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/mitchellduffy/Documents/Coding/myhippoproject/target/tomcat8x/webapps/host-manager] has finished in [121] ms
+25-Nov-2017 19:08:23.872 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+25-Nov-2017 19:08:23.911 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+25-Nov-2017 19:08:23.925 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 135024 ms
+25-Nov-2017 19:08:26.442 INFO [http-nio-8080-exec-2] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /dynamic

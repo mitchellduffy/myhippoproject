@@ -1,0 +1,18 @@
+/content/documents/administration/robots:
+  jcr:primaryType: hippo:handle
+  jcr:mixinTypes: ['mix:referenceable']
+  jcr:uuid: 5ad0612d-a1f0-4129-b7b9-7eacdf88016b
+  /robots:
+    jcr:primaryType: robotstxt:robotstxt
+    jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+    jcr:uuid: 32309f08-fcc4-4929-9a3b-5a4e65b34c50
+    hippo:availability: [live, preview]
+    hippostd:state: published
+    hippostdpubwf:createdBy: admin
+    hippostdpubwf:creationDate: 2014-06-02T14:04:49.737+02:00
+    hippostdpubwf:lastModificationDate: 2014-06-02T14:04:58.772+02:00
+    hippostdpubwf:lastModifiedBy: admin
+    /robotstxt:section:
+      jcr:primaryType: robotstxt:section
+      robotstxt:disallow: [/skip/this/url]
+      robotstxt:useragent: '*'

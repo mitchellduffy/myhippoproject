@@ -1,0 +1,5 @@
+/hst:hst/hst:configurations/myhippoproject/hst:workspace/hst:sitemenus/main/news:
+  .meta:order-before: content
+  jcr:primaryType: hst:sitemenuitem
+  jcr:uuid: b9500438-6360-40f8-9b5f-71cd133e16f3
+  hst:referencesitemapitem: news

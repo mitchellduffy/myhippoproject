@@ -1,0 +1,7 @@
+/hst:hst/hst:configurations/myhippoproject/hst:workspace/hst:containers/blogpagedetail/main/content:
+  jcr:primaryType: hst:containeritemcomponent
+  jcr:uuid: dc3bc82f-b62a-44b1-8d56-7a552f52d58d
+  hst:componentclassname: org.onehippo.cms7.essentials.components.EssentialsContentComponent
+  hst:label: Blog Detail
+  hst:template: blog-detail
+  hst:xtype: hst.item
