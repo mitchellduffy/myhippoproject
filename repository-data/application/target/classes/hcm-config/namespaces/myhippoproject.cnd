@@ -34,6 +34,9 @@
 [myhippoproject:newsdocument] > hippostd:relaxed, hippotranslation:translated, myhippoproject:basedocument
   orderable
 
+[myhippoproject:simpledocument] > hippostd:relaxed, hippotranslation:translated, myhippoproject:basedocument
+  orderable
+
 [myhippoproject:video] > hippostd:relaxed, hippotranslation:translated, myhippoproject:basedocument
   orderable
 

@@ -1,0 +1,63 @@
+/content/documents/myhippoproject/hello-world:
+  jcr:primaryType: hippo:handle
+  jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+  jcr:uuid: cb86aae5-38ce-4541-967b-baaa060f5fc7
+  hippo:name: Hello World
+  /hello-world[1]:
+    jcr:primaryType: myhippoproject:simpledocument
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: ce31b57d-ecc2-46c9-a3c5-ddc2ee599ec0
+    hippo:availability: []
+    hippostd:state: draft
+    hippostdpubwf:createdBy: admin
+    hippostdpubwf:creationDate: 2017-11-26T20:56:14.748+01:00
+    hippostdpubwf:lastModificationDate: 2017-11-26T20:56:14.750+01:00
+    hippostdpubwf:lastModifiedBy: admin
+    hippotranslation:id: 88820614-1bcd-4ec4-ad11-2135d730dfa9
+    hippotranslation:locale: en
+    myhippoproject:title: A hippo page
+    /myhippoproject:content:
+      jcr:primaryType: hippostd:html
+      hippostd:content: |-
+        <p><strong>Big</strong> teeth on this<a href="https://en.wikipedia.org/wiki/Hippopotamus"> hippo</a>.</p>
+
+        <p>&nbsp;</p>
+  /hello-world[2]:
+    jcr:primaryType: myhippoproject:simpledocument
+    jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+    jcr:uuid: 3180f164-33b9-4551-9750-3f1c4b62ffff
+    hippo:availability: [preview]
+    hippostd:state: unpublished
+    hippostdpubwf:createdBy: admin
+    hippostdpubwf:creationDate: 2017-11-26T20:56:14.748+01:00
+    hippostdpubwf:lastModificationDate: 2017-11-26T20:57:30.039+01:00
+    hippostdpubwf:lastModifiedBy: admin
+    hippotranslation:id: 88820614-1bcd-4ec4-ad11-2135d730dfa9
+    hippotranslation:locale: en
+    myhippoproject:title: A hippo page
+    /myhippoproject:content:
+      jcr:primaryType: hippostd:html
+      hippostd:content: |-
+        <p><strong>Big</strong> teeth on this<a href="https://en.wikipedia.org/wiki/Hippopotamus"> hippo</a>.</p>
+
+        <p>&nbsp;</p>
+  /hello-world[3]:
+    jcr:primaryType: myhippoproject:simpledocument
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: aa70489c-cd69-45a1-8de6-3c9f03b7c65a
+    hippo:availability: [live]
+    hippostd:state: published
+    hippostdpubwf:createdBy: admin
+    hippostdpubwf:creationDate: 2017-11-26T20:56:14.748+01:00
+    hippostdpubwf:lastModificationDate: 2017-11-26T20:57:30.039+01:00
+    hippostdpubwf:lastModifiedBy: admin
+    hippostdpubwf:publicationDate: 2017-11-26T20:57:50.865+01:00
+    hippotranslation:id: 88820614-1bcd-4ec4-ad11-2135d730dfa9
+    hippotranslation:locale: en
+    myhippoproject:title: A hippo page
+    /myhippoproject:content:
+      jcr:primaryType: hippostd:html
+      hippostd:content: |-
+        <p><strong>Big</strong> teeth on this<a href="https://en.wikipedia.org/wiki/Hippopotamus"> hippo</a>.</p>
+
+        <p>&nbsp;</p>

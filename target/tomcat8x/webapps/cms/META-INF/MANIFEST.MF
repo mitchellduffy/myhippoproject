@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Implementation-Title: My Hippo Project CMS
 Implementation-Version: 0.1.0-SNAPSHOT
 Built-By: mitchellduffy
-Project-Build: 2017-11-25T18:04:34Z
+Project-Build: 2017-11-27T17:48:50Z
 Implementation-Vendor-Id: org.example
 Project-Version: 0.1.0-SNAPSHOT
 Hippo-Release-Version: 12.0.2

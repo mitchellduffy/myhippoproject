@@ -38,3 +38,6 @@ definitions:
       /blog-detail:
         jcr:primaryType: hst:template
         hst:renderpath: webfile:/freemarker/myhippoproject/blog/blog-detail.ftl
+      /homepage:
+        jcr:primaryType: hst:template
+        hst:renderpath: webfile:/freemarker/home/home.ftl

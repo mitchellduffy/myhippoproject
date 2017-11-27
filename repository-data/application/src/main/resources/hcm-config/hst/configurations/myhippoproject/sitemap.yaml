@@ -4,8 +4,9 @@ definitions:
       jcr:primaryType: hst:sitemap
       /root:
         jcr:primaryType: hst:sitemapitem
-        hst:componentconfigurationid: hst:pages/homepage
+        hst:componentconfigurationid: hst:pages/home
         hst:refId: root
+        hst:relativecontentpath: hello-world
       /_any_:
         jcr:primaryType: hst:sitemapitem
         hst:componentconfigurationid: hst:pages/pagenotfound
